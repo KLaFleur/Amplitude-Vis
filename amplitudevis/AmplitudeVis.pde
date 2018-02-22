@@ -36,7 +36,7 @@ void setup()
   amp.input(in);
   
 
-  size(1600, 999);
+  size(1400, 849);
   noStroke();
   frameRate(400);
   ellipseMode(RADIUS);
@@ -103,7 +103,7 @@ if (xpos > width-rad){
   //background(102);
   
   
-  rad = amp.analyze() * 200;
+  rad = amp.analyze() * 900;
   
 
   
