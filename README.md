@@ -10,11 +10,11 @@ Nothing too earth shattering here, but its cool to see dynamics mapped out in ti
 
 
 
-![](Ex1.png) 
+![](screenshots/Ex1.png) 
 
-![](ex2.png)
+![](screenshots/ex2.png)
 
-![](ex4.png)
+![](screenshots/ex4.png)
 
-![](e3.png)
+![](screenshots/e3.png)
 
